@@ -13,5 +13,7 @@ public class App
         System.out.println( "Hello unknown!" );
         System.out.println( "Hello conflict!" );
         System.out.println( "Hello conflictsecondTime!" );
+        System.out.println( "Hello sickKinds!" );
+        System.out.println( "Hello CNtower!");
     }
 }
