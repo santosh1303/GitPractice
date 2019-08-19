@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello OtherText!" );
-        System.out.println( "Let's keep this again this-time!" );
+        System.out.println( "Let's neglect this again this-time!" );
     }
 }
